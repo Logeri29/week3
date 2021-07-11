@@ -1,2 +1,3 @@
 # week3
-![] (./counter-javascript-project.png)
+
+![](./counter-javascript-project.png)
